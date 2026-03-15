@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/0509-fibonacci-number/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -29,4 +30,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/0509-fibonacci-number/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2396-strictly-palindromic-number](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/2396-strictly-palindromic-number/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2396-strictly-palindromic-number](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/2396-strictly-palindromic-number/) | Medium |
 <!---LeetCode Topics End-->
