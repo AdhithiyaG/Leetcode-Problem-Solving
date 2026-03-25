@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/0001-two-sum/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -38,4 +39,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2396-strictly-palindromic-number](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/2396-strictly-palindromic-number/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
