@@ -8,11 +8,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/0001-two-sum/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/0001-two-sum/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,4 +45,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
