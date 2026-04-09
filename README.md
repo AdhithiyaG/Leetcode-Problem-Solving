@@ -67,4 +67,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0183-customers-who-never-order](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/0183-customers-who-never-order/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/0197-rising-temperature/) | Easy |
+| [0511-game-play-analysis-i](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/0511-game-play-analysis-i/) | Easy |
 <!---LeetCode Topics End-->
