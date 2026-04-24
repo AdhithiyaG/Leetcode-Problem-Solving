@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -51,10 +52,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
