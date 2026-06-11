@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0344-reverse-string](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/0344-reverse-string/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0344-reverse-string](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/AdhithiyaG/Leetcode-Problem-Solving/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
